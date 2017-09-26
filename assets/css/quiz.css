@@ -146,3 +146,113 @@
 	margin-top: 15vh;
 	margin-left: 3.5vw;
 }
+
+
+.Right-arrow-icon {
+	margin-left: 7.5vw; 
+	margin-top: 45vh;
+	position: absolute;
+}
+.GreyLine {
+	margin-left: 5vw;
+	position: absolute;
+}
+.Book-Logo {
+	margin-left: 2vw;
+	margin-top: 5.2vh;
+}
+.Close-Button {
+	position: absolute; 
+	right: 1vw; 
+	top: 2vh;
+}
+.Heading {
+	position: absolute; 
+	margin-left: 8vw; 
+	top: 5vh;
+}
+.Sub-Heading {
+	position: absolute; 
+	margin-left: 8vw; 
+	top:10vh;
+}
+.ViewDicussion {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 7vh;
+}
+.View-ans-History {
+	position: absolute; 
+	margin-left: 14vw; 
+	margin-top: 7vh;
+}
+.Question {
+	margin-top: 18.6vh; 
+	margin-left: 1vw;
+}
+.Badge-logo {
+	position: absolute; 
+	top: 21vh;
+	margin-left: 62vw; 
+	z-index: 2;
+}
+#Badge-descp {
+	position: absolute; 
+	margin-left: 59vw; 
+	top: 27vh; 
+	overflow: hidden; 
+	text-overflow: ellipsis;
+}
+#Rectangle_4_copy_2 {
+	left: 12vw;
+	width: calc(100vw - 15vw);
+	top: 2vh;
+	position: absolute;
+}
+#Outer-Box-Option-1 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 2vh;
+}
+#Inner-Box-Option-1 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 2vh;
+}
+#Outer-Box-Option-2 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 10vh;
+}
+#Inner-Box-Option-2 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 10vh;
+}
+#Outer-Box-Option-3 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 18vh;
+}
+#Inner-Box-Option-3 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 18vh;
+}
+#Outer-Box-Option-4 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 26vh;
+}
+#Inner-Box-Option-4 {
+	position: absolute; 
+	margin-left: 1vw; 
+	margin-top: 26vh;
+}
+#Common-Hyperlink {
+	color: black; 
+	margin-left: 0.7vw; 
+	margin-top: 1.1vh; 
+	text-decoration: none; 
+	font-size: 1vw;
+}
