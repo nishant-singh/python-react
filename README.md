@@ -18,6 +18,7 @@ Python virtual env.
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
+
 1. Activate virtual env
 
 ``` shell
@@ -30,3 +31,4 @@ pip install -r requirements.txt
 3. Goto play directory and execute following command to run server
 ``` shell
 python manage.py runserver 127.0.0.0
+```
